@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=50&fontAlignY=40&color=FBFACD&fontColor=FFACC7&desc=miinha%27s%20Github%20profile.)
 
 <div align="center">
-<h3>Tech Stack</h3>
+<h3>📚Tech Stack📚</h3>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=java&logoColor=white"/>
@@ -13,5 +13,3 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miinha&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=miinha&show_icons=true">
