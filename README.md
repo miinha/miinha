@@ -13,6 +13,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
 
-<div align="center">
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinha&show_icons=true&theme=dracula)
-</div>
