@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=welcome!&fontAlign=50&fontAlignY=40&color=FBFACD&fontColor=FFACC7&desc=miinha%27s%20Github%20profile.)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=welcome!&fontAlign=50&fontAlignY=35&color=FBFACD&fontColor=FFACC7&desc=miinha%27s%20Github%20profile.)
 
 <h3>📚Tech Stack</h3>
 
